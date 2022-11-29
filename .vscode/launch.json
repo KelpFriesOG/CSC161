@@ -1,0 +1,337 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Question2",
+      "request": "launch",
+      "mainClass": "classFinal.Question2",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Question1",
+      "request": "launch",
+      "mainClass": "classFinal.Question1",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch August_10_2022",
+      "request": "launch",
+      "mainClass": "basics.August_10_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch BubbleSort",
+      "request": "launch",
+      "mainClass": "algorithms.BubbleSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch CountingSort",
+      "request": "launch",
+      "mainClass": "algorithms.CountingSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch HeapSort",
+      "request": "launch",
+      "mainClass": "algorithms.HeapSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch InsertionSort",
+      "request": "launch",
+      "mainClass": "algorithms.InsertionSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch MergeSort",
+      "request": "launch",
+      "mainClass": "algorithms.MergeSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch QuickSort",
+      "request": "launch",
+      "mainClass": "algorithms.QuickSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch RadixSort",
+      "request": "launch",
+      "mainClass": "algorithms.RadixSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch SelectionSort",
+      "request": "launch",
+      "mainClass": "algorithms.SelectionSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch ShellSort",
+      "request": "launch",
+      "mainClass": "algorithms.ShellSort",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment1_1",
+      "request": "launch",
+      "mainClass": "assignments.Assignment1_1",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment1_2",
+      "request": "launch",
+      "mainClass": "assignments.Assignment1_2",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment2_1",
+      "request": "launch",
+      "mainClass": "assignments.Assignment2_1",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment2_2",
+      "request": "launch",
+      "mainClass": "assignments.Assignment2_2",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment3_testing",
+      "request": "launch",
+      "mainClass": "assignments.Assignment3_testing",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment4_1",
+      "request": "launch",
+      "mainClass": "assignments.Assignment4_1",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Assignment4_2",
+      "request": "launch",
+      "mainClass": "assignments.Assignment4_2",
+      "projectName": "CSC161",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Midterm1",
+      "request": "launch",
+      "mainClass": "assignments.Midterm1",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Midterm2",
+      "request": "launch",
+      "mainClass": "assignments.Midterm2",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Midterm3",
+      "request": "launch",
+      "mainClass": "assignments.Midterm3",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Midterm4",
+      "request": "launch",
+      "mainClass": "assignments.Midterm4",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Midterm5",
+      "request": "launch",
+      "mainClass": "assignments.Midterm5",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch August_1_2022",
+      "request": "launch",
+      "mainClass": "basics.August_1_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch August_2_2022",
+      "request": "launch",
+      "mainClass": "basics.August_2_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch August_9_2022",
+      "request": "launch",
+      "mainClass": "basics.August_9_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch FinalReview",
+      "request": "launch",
+      "mainClass": "basics.FinalReview",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch July_18_2022",
+      "request": "launch",
+      "mainClass": "basics.July_18_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch July_19_2022",
+      "request": "launch",
+      "mainClass": "basics.July_19_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch July_26_2022",
+      "request": "launch",
+      "mainClass": "basics.July_26_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch July_27_2022",
+      "request": "launch",
+      "mainClass": "basics.July_27_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch July_28_2022",
+      "request": "launch",
+      "mainClass": "basics.July_28_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch July_7_2022",
+      "request": "launch",
+      "mainClass": "basics.July_7_2022",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Fan",
+      "request": "launch",
+      "mainClass": "basics.Labs.Fan",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab1",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab1",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab2",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab2",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab3",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab3",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab4",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab4",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab6",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab6",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab7",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab7",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lab8",
+      "request": "launch",
+      "mainClass": "basics.Labs.Lab8",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch OOP",
+      "request": "launch",
+      "mainClass": "basics.OOP",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Welcome",
+      "request": "launch",
+      "mainClass": "basics.Welcome",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Zoo",
+      "request": "launch",
+      "mainClass": "basics.Zoo",
+      "projectName": "CSC161"
+    },
+    {
+      "type": "java",
+      "name": "Launch Laundromat",
+      "request": "launch",
+      "mainClass": "laundry_example.Laundromat",
+      "projectName": "CSC161"
+    }
+  ]
+}

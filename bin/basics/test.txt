@@ -1,0 +1,16 @@
+Holy mother of files!
+This is file-tackular!
+I hope all the files get replaced.
+I am using the replaceAll() method to replace each instance
+of the word "file" in this file. I hope it works according to plan!
+
+Oh files, how I love thee,
+they are my joy and utter glee.
+They last oh so long, but change fleetingly
+Files, I cry for thee.
+
+Did you enjoy my file inspired poetry?
+
+If you did, then hit the like button.
+Also subscriber to my alt channel file-o-rama_Man_vs_fileS
+

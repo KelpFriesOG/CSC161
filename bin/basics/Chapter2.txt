@@ -1,0 +1,6 @@
+___Chapter 2 Elementary Programming ___
+
+These functionalities are useful for all programs, they are the building blocks for infinitely
+more complex programs.
+
+Code in July 7 2022
